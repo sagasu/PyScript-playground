@@ -3,3 +3,6 @@ PyScript playground
 
 # Run
 just open `hello.html` in your favorite browser. No need to install anything.  
+Other files to open in browser:  
+* compute-pi.html  
+* numpy.html  
